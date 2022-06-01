@@ -1,4 +1,4 @@
-## Leo Club App
+## My App
 ## Stack Laravel and VueJs
 
  - To install dependencies
@@ -34,7 +34,7 @@ Fork The Repo And Clone Your Fork
 cd leoClub-App
 ```
 ```bash
-git remote add upstream https://github.com/zurichat/leoClub-App.git
+git remote add upstream https://github.com/omoh09/my-App.git
 ```
 
 ```bash
